@@ -1,7 +1,13 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "Your complaint will not affect the outcome of your case.\r\n\r\n## When not to use this form\r\n\r\nYou can't use this form to complain about:\r\n\r\n* [the outcome of a case](https://www.judiciary.uk/you-and-the-judiciary/appeals-process/)\r\n* [a judge, tribunal member or magistrate](https://judicialconduct.judiciary.gov.uk/)",
+  "components": [
+    {
+      "_id": "page.start--inset",
+      "_type": "inset",
+      "html": "## Important information\r\n\r\nYou can't use this form to complain about:\r\n\r\n* [the outcome of a case](https://www.judiciary.uk/you-and-the-judiciary/appeals-process/)\r\n* [a judge, tribunal member or magistrate](https://judicialconduct.judiciary.gov.uk/)"
+    }
+  ],
   "extraComponents": [
     {
       "_id": "page.start--content",
