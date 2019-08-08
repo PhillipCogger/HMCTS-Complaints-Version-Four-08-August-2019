@@ -22,7 +22,8 @@
     "page.complain-about-a-judge",
     "page.case-outcome-complaint",
     "page.complain-about-a-judge--2",
-    "page.person-making-complaint"
+    "page.person-making-complaint",
+    "page.role"
   ],
   "url": "/"
 }
