@@ -15,7 +15,8 @@
     "page.test",
     "page.complain-about-a-judge",
     "page.case-outcome-complaint",
-    "page.complain-about-a-judge--2"
+    "page.complain-about-a-judge--2",
+    "page.person-making-complaint"
   ],
   "url": "/"
 }
