@@ -1,0 +1,11 @@
+{
+  "_id": "page.complain-about-a-judge--2",
+  "_type": "page.exit",
+  "heading": "Complain about a judge",
+  "show": {
+    "identifier": "auto_name__2",
+    "operator": "is",
+    "value": "auto_value__3"
+  },
+  "url": "complain-about-a-judge"
+}
