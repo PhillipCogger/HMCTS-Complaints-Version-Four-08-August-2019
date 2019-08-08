@@ -1,0 +1,79 @@
+{
+  "_id": "page.other",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.other--radios.auto_name__5",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.other--radios.auto_name__5--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Member of the public",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.other--radios.auto_name__5--radio.auto_value__1--2",
+          "_type": "radio",
+          "label": "Victim",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.other--radios.auto_name__5--radio.auto_value__1--3",
+          "_type": "radio",
+          "label": "Witness",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.other--radios.auto_name__5--radio.auto_value__1--4",
+          "_type": "radio",
+          "label": "Non-professional support",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.other--radios.auto_name__5--radio.auto_value__1--5",
+          "_type": "radio",
+          "label": "Legal representative",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.other--radios.auto_name__5--radio.auto_value__1--6",
+          "_type": "radio",
+          "label": "Third party",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.other--radios.auto_name__5--radio.auto_value__1--7",
+          "_type": "radio",
+          "label": "Agency",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.other--radios.auto_name__5--radio.auto_value__1--8",
+          "_type": "radio",
+          "label": "Member of Parliament (including Councillors, MSPs, Assembly Members and Lords)",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.other--radios.auto_name__5--radio.auto_value__1--9",
+          "_type": "radio",
+          "label": "Professional user (for example, a barrister)",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.other--radios.auto_name__5--radio.auto_value__1--10",
+          "_type": "radio",
+          "label": "Internal stakeholder (HQ only)",
+          "value": "auto_value__1"
+        }
+      ],
+      "name": "auto_name__5"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__4",
+    "operator": "is",
+    "value": "auto_value__1"
+  },
+  "url": "other"
+}
