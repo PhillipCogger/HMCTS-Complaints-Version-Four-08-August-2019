@@ -2,10 +2,6 @@
   "_id": "page.case-outcome-complaint",
   "_type": "page.exit",
   "heading": "Appeal against a decision",
-  "show": {
-    "identifier": "auto_name__1",
-    "operator": "is",
-    "value": "auto_value__1"
-  },
+  "show": true,
   "url": "case-outcome-complaint"
 }
