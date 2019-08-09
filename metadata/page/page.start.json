@@ -21,6 +21,7 @@
     "page.test",
     "page.judge-complaint",
     "page.case-outcome-complaint",
+    "page.complain-about-a-judge",
     "page.person-making-complaint",
     "page.role",
     "page.other"
