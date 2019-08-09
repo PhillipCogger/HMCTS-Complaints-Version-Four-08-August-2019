@@ -1,13 +1,7 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "components": [
-    {
-      "_id": "page.start--inset",
-      "_type": "inset",
-      "html": "## Important information\r\n\r\nYou can't use this form to complain about:\r\n\r\n* [the outcome of a case](https://www.judiciary.uk/you-and-the-judiciary/appeals-process/)\r\n* [a judge, tribunal member or magistrate](https://judicialconduct.judiciary.gov.uk/)"
-    }
-  ],
+  "body": "## Important information\r\n\r\nYou can't use this form to complain about:\r\n\r\n* the outcome of a case\r\n* a judge, tribunal member or magistrate",
   "extraComponents": [
     {
       "_id": "page.start--content",
