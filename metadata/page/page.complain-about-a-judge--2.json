@@ -1,7 +1,7 @@
 {
   "_id": "page.complain-about-a-judge--2",
   "_type": "page.exit",
-  "heading": "Do you want to complain about a judge?",
+  "heading": "Complain about a judge",
   "show": {
     "identifier": "auto_name__2",
     "operator": "is",
