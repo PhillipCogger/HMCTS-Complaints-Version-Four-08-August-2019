@@ -9,8 +9,8 @@
       "html": "Find out [how HM Courts and Tribunals Service uses personal information](https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service/about/personal-information-charter)."
     }
   ],
-  "heading": "Complain about a court or tribunal",
-  "lede": "Use this form to complain to HMCTS about a court or tribunal.",
+  "heading": "Complain to HMCTS",
+  "lede": "Use this form to complain if you're unhappy with the service you've received from HMCTS.",
   "steps": [
     "page.test",
     "page.judge-complaint",
