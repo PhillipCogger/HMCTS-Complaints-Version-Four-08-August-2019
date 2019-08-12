@@ -10,5 +10,20 @@
       "name": "auto_name__14"
     }
   ],
+  "show": {
+    "any": [
+      {
+        "identifier": "auto_name__12",
+        "operator": "is",
+        "value": "auto_value__7"
+      },
+      {
+        "identifier": "auto_name__8",
+        "operator": "is",
+        "value": "auto_value__10"
+      }
+    ],
+    "conditionsType": "any"
+  },
   "url": "email"
 }

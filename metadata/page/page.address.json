@@ -44,5 +44,20 @@
     }
   ],
   "heading": "Your address",
+  "show": {
+    "any": [
+      {
+        "identifier": "auto_name__12",
+        "operator": "is",
+        "value": "auto_value__9"
+      },
+      {
+        "identifier": "auto_name__8",
+        "operator": "is",
+        "value": "auto_value__11"
+      }
+    ],
+    "conditionsType": "any"
+  },
   "url": "address"
 }
