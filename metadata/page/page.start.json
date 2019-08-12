@@ -20,7 +20,8 @@
     "page.role",
     "page.other",
     "page.victim-code",
-    "page.witness-charter"
+    "page.witness-charter",
+    "page.complaint-details"
   ],
   "url": "/"
 }

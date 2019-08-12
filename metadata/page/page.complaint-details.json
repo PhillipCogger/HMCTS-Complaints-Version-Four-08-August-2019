@@ -1,0 +1,21 @@
+{
+  "_id": "page.complaint-details",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.complaint-details--textarea.auto_name__7",
+      "_type": "textarea",
+      "label": "What happened",
+      "name": "auto_name__7"
+    },
+    {
+      "_id": "page.complaint-details--textarea.auto_name__8",
+      "_type": "textarea",
+      "label": "What you want to happen",
+      "name": "auto_name__8"
+    }
+  ],
+  "heading": "Complaint details",
+  "lede": "Give as much detail as you can, including dates if you know them.",
+  "url": "complaint-details"
+}
