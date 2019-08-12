@@ -3,25 +3,31 @@
   "_type": "page.form",
   "components": [
     {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
       "_id": "page.complaint-details--textarea.auto_name__7",
       "_type": "textarea",
       "label": "What happened",
       "name": "auto_name__7"
     },
     {
-      "_id": "page.complaint-details--textarea.auto_name__8",
-      "_type": "textarea",
-      "label": "What you would like to happen",
-      "name": "auto_name__8"
-    },
-    {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
       "_id": "page.complaint-details--text.auto_name__9",
       "_type": "text",
-      "hint": "Start by typing a location, for example, Aberystwyth, or the court or tribunal  name if you know it.",
+      "hint": "Start by typing a location, for example, Aberystwyth, or the court or tribunal  name if you know it",
       "label": "Where the issue happened",
       "name": "complaint_details_issue_location"
     },
     {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
       "_id": "page.complaint-details--text.auto_name__10",
       "_type": "text",
       "label": "Case number",
