@@ -24,10 +24,10 @@
     "page.complaint-details",
     "page.your-name",
     "page.contact-preferences",
+    "page.alternative-contact-method",
     "page.email",
     "page.phone-number",
-    "page.address",
-    "page.alternative-contact-method"
+    "page.address"
   ],
   "url": "/"
 }
