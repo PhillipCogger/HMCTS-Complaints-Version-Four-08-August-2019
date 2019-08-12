@@ -19,7 +19,7 @@
       "_type": "text",
       "hint": "Start by typing a location, for example, Aberystwyth, or the court or tribunal  name if you know it.",
       "label": "Where you experienced the issue",
-      "name": "auto_name__9"
+      "name": "complaint_details_issue_location"
     },
     {
       "_id": "page.complaint-details--text.auto_name__10",
