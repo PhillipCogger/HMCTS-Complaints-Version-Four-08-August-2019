@@ -23,5 +23,10 @@
       "name": "auto_name__6"
     }
   ],
+  "show": {
+    "identifier": "auto_name__5",
+    "operator": "is",
+    "value": "auto_value__1"
+  },
   "url": "victim-code"
 }
