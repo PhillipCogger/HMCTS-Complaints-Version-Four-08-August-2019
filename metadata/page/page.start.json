@@ -27,7 +27,9 @@
     "page.alternative-contact-method",
     "page.email",
     "page.phone-number",
-    "page.address"
+    "page.address",
+    "page.check-your-answers",
+    "page.complaint-sent"
   ],
   "url": "/"
 }

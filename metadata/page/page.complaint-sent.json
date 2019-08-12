@@ -1,0 +1,6 @@
+{
+  "_id": "page.complaint-sent",
+  "_type": "page.confirmation",
+  "heading": "Your complaint has been sent successfully",
+  "url": "complaint-sent"
+}
