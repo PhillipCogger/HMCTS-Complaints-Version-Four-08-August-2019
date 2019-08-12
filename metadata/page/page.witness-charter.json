@@ -23,5 +23,10 @@
       "name": "auto_name__5"
     }
   ],
+  "show": {
+    "identifier": "person_making_complaint",
+    "operator": "is",
+    "value": "person_making_complaint_witness"
+  },
   "url": "witness-charter"
 }
