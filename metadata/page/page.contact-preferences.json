@@ -1,0 +1,34 @@
+{
+  "_id": "page.contact-preferences",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.contact-preferences--radios.auto_name__12",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.contact-preferences--radios.auto_name__12--radio.auto_value__7",
+          "_type": "radio",
+          "label": "Email",
+          "value": "auto_value__7"
+        },
+        {
+          "_id": "page.contact-preferences--radios.auto_name__12--radio.auto_value__8",
+          "_type": "radio",
+          "hint": "For example, call or text message",
+          "label": "Phone",
+          "value": "auto_value__8"
+        },
+        {
+          "_id": "page.contact-preferences--radios.auto_name__12--radio.auto_value__9",
+          "_type": "radio",
+          "label": "By post",
+          "value": "auto_value__9"
+        }
+      ],
+      "legend": "How would you prefer to be contacted about your complaint?",
+      "name": "auto_name__12"
+    }
+  ],
+  "url": "contact-preferences"
+}

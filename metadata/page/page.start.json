@@ -22,7 +22,8 @@
     "page.victim-code",
     "page.witness-charter",
     "page.complaint-details",
-    "page.your-name"
+    "page.your-name",
+    "page.contact-preferences"
   ],
   "url": "/"
 }
