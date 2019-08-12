@@ -11,8 +11,24 @@
     {
       "_id": "page.complaint-details--textarea.auto_name__8",
       "_type": "textarea",
-      "label": "What you want to happen",
+      "label": "What you would like to happen",
       "name": "auto_name__8"
+    },
+    {
+      "_id": "page.complaint-details--text.auto_name__9",
+      "_type": "text",
+      "hint": "Start by typing a location, for example, Aberystwyth, or the court or tribunal  name if you know it.",
+      "label": "Where you experienced the issue",
+      "name": "auto_name__9"
+    },
+    {
+      "_id": "page.complaint-details--text.auto_name__10",
+      "_type": "text",
+      "label": "Case number",
+      "name": "auto_name__10",
+      "validation": {
+        "required": false
+      }
     }
   ],
   "heading": "Complaint details",
