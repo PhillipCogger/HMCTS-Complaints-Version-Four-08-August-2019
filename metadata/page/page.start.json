@@ -26,8 +26,8 @@
     "page.contact-preferences",
     "page.email",
     "page.phone-number",
-    "page.alternative-contact-method",
-    "page.address"
+    "page.address",
+    "page.alternative-contact-method"
   ],
   "url": "/"
 }
