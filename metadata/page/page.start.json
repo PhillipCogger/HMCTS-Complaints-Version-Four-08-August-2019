@@ -18,7 +18,8 @@
     "page.complain-about-a-judge",
     "page.person-making-complaint",
     "page.role",
-    "page.other"
+    "page.other",
+    "page.victim-code"
   ],
   "url": "/"
 }

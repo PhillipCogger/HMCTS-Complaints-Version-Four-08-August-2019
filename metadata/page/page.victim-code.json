@@ -1,0 +1,27 @@
+{
+  "_id": "page.victim-code",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.victim-code--radios.auto_name__6",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.victim-code--radios.auto_name__6--radio.auto_value__3",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__3"
+        },
+        {
+          "_id": "page.victim-code--radios.auto_name__6--radio.auto_value__4",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__4"
+        }
+      ],
+      "legend": "Is this complaint about the Victims' Code?",
+      "name": "auto_name__6"
+    }
+  ],
+  "url": "victim-code"
+}
