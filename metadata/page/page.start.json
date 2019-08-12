@@ -23,7 +23,11 @@
     "page.witness-charter",
     "page.complaint-details",
     "page.your-name",
-    "page.contact-preferences"
+    "page.contact-preferences",
+    "page.email",
+    "page.phone-number",
+    "page.alternative-contact-method",
+    "page.address"
   ],
   "url": "/"
 }
