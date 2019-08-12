@@ -19,7 +19,8 @@
     "page.person-making-complaint",
     "page.role",
     "page.other",
-    "page.victim-code"
+    "page.victim-code",
+    "page.witness-charter"
   ],
   "url": "/"
 }
