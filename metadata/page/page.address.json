@@ -45,7 +45,8 @@
   ],
   "heading": "Your address",
   "show": {
-    "any": [
+    "conditionsType": "exactly",
+    "exactly": [
       {
         "identifier": "contact_preference",
         "operator": "is",
@@ -56,8 +57,7 @@
         "operator": "is",
         "value": "alternative_contact_post"
       }
-    ],
-    "conditionsType": "any"
+    ]
   },
   "url": "address"
 }

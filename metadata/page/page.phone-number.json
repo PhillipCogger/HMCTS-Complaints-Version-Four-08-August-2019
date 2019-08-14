@@ -11,7 +11,8 @@
     }
   ],
   "show": {
-    "any": [
+    "conditionsType": "exactly",
+    "exactly": [
       {
         "identifier": "contact_preference",
         "operator": "is",
@@ -22,8 +23,7 @@
         "operator": "is",
         "value": "alternative_contact_phone"
       }
-    ],
-    "conditionsType": "any"
+    ]
   },
   "url": "phone-number"
 }
