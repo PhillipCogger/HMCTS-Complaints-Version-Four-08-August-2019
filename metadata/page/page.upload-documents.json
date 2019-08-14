@@ -10,5 +10,10 @@
       "name": "auto_name__22"
     }
   ],
+  "show": {
+    "identifier": "documents_to_support_complaint",
+    "operator": "is",
+    "value": "documents_to_support_complaint_yes"
+  },
   "url": "upload-documents"
 }
