@@ -13,8 +13,8 @@
   "lede": "Use this form to complain if you're unhappy with the service you've received from HMCTS.",
   "steps": [
     "page.test",
-    "page.judge-complaint",
     "page.appeal-against-a-decision",
+    "page.judge-complaint",
     "page.complain-about-a-judge",
     "page.person-making-complaint",
     "page.role",
