@@ -5,6 +5,7 @@
     {
       "_id": "page.other--radios.auto_name__5",
       "_type": "radios",
+      "hint": "Select one option.",
       "items": [
         {
           "$component": true,
@@ -88,7 +89,7 @@
           "value": "person_making_complaint_professional_user"
         }
       ],
-      "legend": "Who is making this complaint?",
+      "legend": "Give more details",
       "name": "person_making_complaint"
     }
   ],

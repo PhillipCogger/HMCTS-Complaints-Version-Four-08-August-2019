@@ -34,7 +34,7 @@
         {
           "_id": "page.role--radios.auto_name__4--radio.auto_value__8--2",
           "_type": "radio",
-          "label": "Professional users",
+          "label": "Professional user",
           "value": "complainant_professional_user"
         },
         {
