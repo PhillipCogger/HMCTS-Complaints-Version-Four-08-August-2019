@@ -14,7 +14,7 @@
   "steps": [
     "page.test",
     "page.judge-complaint",
-    "page.case-outcome-complaint",
+    "page.appeal-against-a-decision",
     "page.complain-about-a-judge",
     "page.person-making-complaint",
     "page.role",
