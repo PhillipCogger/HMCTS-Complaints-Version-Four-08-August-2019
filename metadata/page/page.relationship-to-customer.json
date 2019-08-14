@@ -1,0 +1,57 @@
+{
+  "_id": "page.relationship-to-customer",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.relationship-to-customer--radios.auto_name__1",
+      "_type": "radios",
+      "hint": "Select one option.",
+      "items": [
+        {
+          "_id": "page.relationship-to-customer--radios.auto_name__1--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Family member",
+          "value": "representative_relationship_to_customer_family_member"
+        },
+        {
+          "_id": "page.relationship-to-customer--radios.auto_name__1--radio.auto_value__2",
+          "_type": "radio",
+          "label": "Litigation friend",
+          "value": "representative_relationship_to_customer_litigation_friend"
+        },
+        {
+          "_id": "page.relationship-to-customer--radios.auto_name__1--radio.auto_value__3",
+          "_type": "radio",
+          "label": "Councillor",
+          "value": "representative_relationship_to_customer_councillor"
+        },
+        {
+          "_id": "page.relationship-to-customer--radios.auto_name__1--radio.auto_value__4",
+          "_type": "radio",
+          "label": "Advocacy service",
+          "value": "representative_relationship_to_customer_advocacy_service"
+        },
+        {
+          "_id": "page.relationship-to-customer--radios.auto_name__1--radio.auto_value__5",
+          "_type": "radio",
+          "label": "MP",
+          "value": "auto_value__5"
+        },
+        {
+          "_id": "page.relationship-to-customer--radios.auto_name__1--radio.auto_value__6",
+          "_type": "radio",
+          "label": "Lawyer or solicitor",
+          "value": "representative_relationship_to_customer_lawyer_solicitor"
+        }
+      ],
+      "legend": "What's your relationship to the customer?",
+      "name": "representative_relationship_to_customer"
+    }
+  ],
+  "show": {
+    "identifier": "customer_making_complaint",
+    "operator": "is",
+    "value": "representative_making_complaint"
+  },
+  "url": "relationship-to-customer"
+}
