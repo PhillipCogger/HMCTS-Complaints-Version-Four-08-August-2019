@@ -5,12 +5,11 @@
     {
       "_id": "page.alternative-contact-method--radios.auto_name__8",
       "_type": "radios",
-      "hint": "Choose how we can contact you if you're unable to receive a call or text",
       "items": [
         {
           "_id": "page.alternative-contact-method--radios.auto_name__8--radio.auto_value__10",
           "_type": "radio",
-          "label": "Email",
+          "label": "Phone",
           "value": "auto_value__10"
         },
         {
@@ -20,7 +19,7 @@
           "value": "auto_value__11"
         }
       ],
-      "legend": "Alternative contact method",
+      "legend": "How can we contact you if",
       "name": "auto_name__8"
     }
   ],
