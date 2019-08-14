@@ -7,7 +7,7 @@
       "_type": "text",
       "hint": "We'll only use this to contact you about your complaint",
       "label": "Your phone number",
-      "name": "auto_name__15"
+      "name": "your_phone_number"
     }
   ],
   "show": true,

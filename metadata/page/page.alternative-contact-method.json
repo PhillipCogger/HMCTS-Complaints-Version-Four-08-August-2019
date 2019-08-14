@@ -10,17 +10,17 @@
           "_id": "page.alternative-contact-method--radios.auto_name__8--radio.auto_value__10",
           "_type": "radio",
           "label": "Phone",
-          "value": "auto_value__10"
+          "value": "alternative_contact_phone"
         },
         {
           "_id": "page.alternative-contact-method--radios.auto_name__8--radio.auto_value__11",
           "_type": "radio",
           "label": "By post",
-          "value": "auto_value__11"
+          "value": "alternative_contact_post"
         }
       ],
       "legend": "Alternative way to contact you",
-      "name": "auto_name__8"
+      "name": "alternative_contact"
     }
   ],
   "show": true,
