@@ -11,41 +11,41 @@
           "_id": "page.role--radios.auto_name__4--radio.auto_value__1",
           "_type": "radio",
           "label": "Appellant, applicant or claimant",
-          "value": "auto_value__1"
+          "value": "complainant_appellant_applicant_claimant"
         },
         {
           "_id": "page.role--radios.auto_name__4--radio.auto_value__1--2",
           "_type": "radio",
           "label": "Defendant or respondent",
-          "value": "auto_value__1"
+          "value": "complainant_defendant_respondent"
         },
         {
           "_id": "page.role--radios.auto_name__4--radio.auto_value__1--3",
           "_type": "radio",
           "label": "Juror",
-          "value": "auto_value__1"
+          "value": "complainant_juror"
         },
         {
           "_id": "page.role--radios.auto_name__4--radio.auto_value__8",
           "_type": "radio",
           "label": "Victim",
-          "value": "auto_value__8"
+          "value": "complainant_victim"
         },
         {
           "_id": "page.role--radios.auto_name__4--radio.auto_value__8--2",
           "_type": "radio",
           "label": "Professional users",
-          "value": "auto_value__8"
+          "value": "complainant_professional_user"
         },
         {
           "_id": "page.role--radios.auto_name__4--radio.auto_value__1--4",
           "_type": "radio",
           "label": "Other",
-          "value": "auto_value__1"
+          "value": "complainant_other"
         }
       ],
       "legend": "What role are you?",
-      "name": "auto_name__4"
+      "name": "complaint_type"
     }
   ],
   "show": true,

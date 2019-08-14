@@ -93,9 +93,9 @@
     }
   ],
   "show": {
-    "identifier": "auto_name__4",
+    "identifier": "complaint_type",
     "operator": "is",
-    "value": "auto_value__1"
+    "value": "complainant_appellant_applicant_claimant"
   },
   "url": "person-making-complaint"
 }
