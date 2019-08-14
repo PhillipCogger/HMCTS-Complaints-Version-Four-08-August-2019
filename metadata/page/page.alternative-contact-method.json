@@ -24,10 +24,6 @@
       "name": "auto_name__8"
     }
   ],
-  "show": {
-    "identifier": "auto_name__12",
-    "operator": "is",
-    "value": "auto_value__8"
-  },
+  "show": true,
   "url": "alternative-contact-method"
 }

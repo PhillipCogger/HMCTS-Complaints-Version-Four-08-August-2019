@@ -10,10 +10,6 @@
       "name": "auto_name__15"
     }
   ],
-  "show": {
-    "identifier": "auto_name__12",
-    "operator": "is",
-    "value": "auto_value__8"
-  },
+  "show": true,
   "url": "phone-number"
 }
