@@ -7,64 +7,85 @@
       "_type": "radios",
       "items": [
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.other--radios.auto_name__5--radio.auto_value__1",
           "_type": "radio",
           "label": "Member of the public",
           "value": "person_making_complaint_member_of_public"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.other--radios.auto_name__5--radio.auto_value__1--2",
           "_type": "radio",
           "label": "Victim",
           "value": "person_making_complaint_victim"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.other--radios.auto_name__5--radio.auto_value__1--3",
           "_type": "radio",
           "label": "Witness",
           "value": "person_making_complaint_witness"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.other--radios.auto_name__5--radio.auto_value__1--4",
           "_type": "radio",
           "label": "Non-professional support",
           "value": "person_making_complaint_non_professional_support"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.other--radios.auto_name__5--radio.auto_value__1--5",
           "_type": "radio",
           "label": "Legal representative",
           "value": "person_making_complaint_legal_representative"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.other--radios.auto_name__5--radio.auto_value__1--6",
           "_type": "radio",
           "label": "Third party",
           "value": "person_making_complaint_third_party"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.other--radios.auto_name__5--radio.auto_value__1--7",
           "_type": "radio",
           "label": "Agency",
           "value": "person_making_complaint_agency"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.other--radios.auto_name__5--radio.auto_value__1--8",
           "_type": "radio",
           "label": "Member of Parliament (including Councillors, MSPs, Assembly Members and Lords)",
           "value": "person_making_complaint_mp"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.other--radios.auto_name__5--radio.auto_value__1--9",
           "_type": "radio",
           "label": "Professional user (for example, a barrister)",
           "value": "person_making_complaint_professional_user"
-        },
-        {
-          "_id": "page.other--radios.auto_name__5--radio.auto_value__1--10",
-          "_type": "radio",
-          "label": "Internal stakeholder (HQ only)",
-          "value": "person_making_complaint_internal_stakeholder"
         }
       ],
       "legend": "Who is making this complaint?",
