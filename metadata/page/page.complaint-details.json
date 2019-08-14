@@ -13,6 +13,12 @@
       "name": "auto_name__7"
     },
     {
+      "_id": "page.complaint-details--textarea.auto_name__21",
+      "_type": "textarea",
+      "label": "How can we resolve your issue?",
+      "name": "auto_name__21"
+    },
+    {
       "$component": true,
       "$control": true,
       "$definition": true,
