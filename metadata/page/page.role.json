@@ -26,12 +26,6 @@
           "value": "auto_value__1"
         },
         {
-          "_id": "page.role--radios.auto_name__4--radio.auto_value__1--4",
-          "_type": "radio",
-          "label": "Other",
-          "value": "auto_value__1"
-        },
-        {
           "_id": "page.role--radios.auto_name__4--radio.auto_value__8",
           "_type": "radio",
           "label": "Victim",
@@ -42,6 +36,12 @@
           "_type": "radio",
           "label": "Professional users",
           "value": "auto_value__8"
+        },
+        {
+          "_id": "page.role--radios.auto_name__4--radio.auto_value__1--4",
+          "_type": "radio",
+          "label": "Other",
+          "value": "auto_value__1"
         }
       ],
       "legend": "What role are you?",
