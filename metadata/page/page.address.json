@@ -44,6 +44,20 @@
     }
   ],
   "heading": "Your address",
-  "show": true,
+  "show": {
+    "any": [
+      {
+        "identifier": "contact_preference",
+        "operator": "is",
+        "value": "contact_preferences_post"
+      },
+      {
+        "identifier": "alternative_contact",
+        "operator": "is",
+        "value": "alternative_contact_post"
+      }
+    ],
+    "conditionsType": "any"
+  },
   "url": "address"
 }

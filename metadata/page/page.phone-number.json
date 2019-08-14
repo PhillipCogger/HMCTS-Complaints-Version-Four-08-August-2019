@@ -10,6 +10,20 @@
       "name": "your_phone_number"
     }
   ],
-  "show": true,
+  "show": {
+    "any": [
+      {
+        "identifier": "contact_preference",
+        "operator": "is",
+        "value": "contact_preference_phone"
+      },
+      {
+        "identifier": "alternative_contact",
+        "operator": "is",
+        "value": "alternative_contact_phone"
+      }
+    ],
+    "conditionsType": "any"
+  },
   "url": "phone-number"
 }

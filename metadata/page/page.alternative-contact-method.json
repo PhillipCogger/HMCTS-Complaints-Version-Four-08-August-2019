@@ -23,6 +23,10 @@
       "name": "alternative_contact"
     }
   ],
-  "show": true,
+  "show": {
+    "identifier": "contact_preference",
+    "operator": "is",
+    "value": "contact_preference_email"
+  },
   "url": "alternative-contact-method"
 }
