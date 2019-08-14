@@ -1,0 +1,54 @@
+{
+  "_id": "page.customer-address",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.customer-address--text.auto_name__3",
+      "_type": "text",
+      "label": "Building and street",
+      "name": "auto_name__3",
+      "widthClassInput": "30"
+    },
+    {
+      "_id": "page.customer-address--text.auto_name__4",
+      "_type": "text",
+      "name": "auto_name__4",
+      "validation": {
+        "required": false
+      },
+      "widthClassInput": "30"
+    },
+    {
+      "_id": "page.customer-address--text.auto_name__5",
+      "_type": "text",
+      "label": "Town or city",
+      "name": "auto_name__5",
+      "widthClassInput": "two-thirds"
+    },
+    {
+      "_id": "page.customer-address--text.auto_name__6",
+      "_type": "text",
+      "label": "County",
+      "name": "auto_name__6",
+      "validation": {
+        "required": false
+      },
+      "widthClassInput": "two-thirds"
+    },
+    {
+      "_id": "page.customer-address--text.auto_name__7",
+      "_type": "text",
+      "label": "Postcode",
+      "name": "auto_name__7",
+      "widthClassInput": "10"
+    }
+  ],
+  "heading": "What is the customer's address?",
+  "lede": "We'll only contact the customer representative about this complaint.",
+  "show": {
+    "identifier": "customer_making_complaint",
+    "operator": "is",
+    "value": "representative_making_complaint"
+  },
+  "url": "customer-address"
+}
