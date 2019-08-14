@@ -10,13 +10,13 @@
       "_id": "page.complaint-details--textarea.auto_name__7",
       "_type": "textarea",
       "label": "What happened",
-      "name": "auto_name__7"
+      "name": "complaint_reason"
     },
     {
       "_id": "page.complaint-details--textarea.auto_name__21",
       "_type": "textarea",
       "label": "How can we resolve your issue?",
-      "name": "auto_name__21"
+      "name": "complaint_resolution"
     },
     {
       "$component": true,
@@ -27,7 +27,7 @@
       "_type": "text",
       "hint": "Start by typing a location, for example, Aberystwyth, or the court or tribunal  name if you know it",
       "label": "Where the issue happened",
-      "name": "complaint_details_issue_location"
+      "name": "complaint_location"
     },
     {
       "$component": true,
@@ -37,7 +37,7 @@
       "_id": "page.complaint-details--text.auto_name__10",
       "_type": "text",
       "label": "Case number",
-      "name": "auto_name__10",
+      "name": "complaint_case_number",
       "validation": {
         "required": false
       }

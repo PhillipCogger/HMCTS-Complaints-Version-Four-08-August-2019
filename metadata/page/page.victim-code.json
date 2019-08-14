@@ -10,17 +10,17 @@
           "_id": "page.victim-code--radios.auto_name__6--radio.auto_value__3",
           "_type": "radio",
           "label": "Yes",
-          "value": "auto_value__3"
+          "value": "complaint_victim_code_yes"
         },
         {
           "_id": "page.victim-code--radios.auto_name__6--radio.auto_value__4",
           "_type": "radio",
           "label": "No",
-          "value": "auto_value__4"
+          "value": "complaint_victim_code_no"
         }
       ],
       "legend": "Is this complaint about the Victims' Code?",
-      "name": "auto_name__6"
+      "name": "complaint_victim_code"
     }
   ],
   "show": {

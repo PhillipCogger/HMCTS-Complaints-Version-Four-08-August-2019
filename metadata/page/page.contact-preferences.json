@@ -10,7 +10,7 @@
           "_id": "page.contact-preferences--radios.auto_name__12--radio.auto_value__7",
           "_type": "radio",
           "label": "Email",
-          "value": "auto_value__7"
+          "value": "contact_preference_email"
         },
         {
           "_id": "page.contact-preferences--radios.auto_name__12--radio.auto_value__8",
@@ -20,20 +20,20 @@
             "_type": "text",
             "hint": "For example, between 4 and 6pm, or give an exact time, like 6.30pm",
             "label": "What's the best time to call?",
-            "name": "auto_name__13"
+            "name": "preferred_call_time"
           },
           "label": "Phone",
-          "value": "auto_value__8"
+          "value": "contact_preference_phone"
         },
         {
           "_id": "page.contact-preferences--radios.auto_name__12--radio.auto_value__9",
           "_type": "radio",
           "label": "By post",
-          "value": "auto_value__9"
+          "value": "contact_preferences_post"
         }
       ],
       "legend": "How would you prefer to be contacted about your complaint?",
-      "name": "auto_name__12"
+      "name": "contact_preference"
     }
   ],
   "url": "contact-preferences"

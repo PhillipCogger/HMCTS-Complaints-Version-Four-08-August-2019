@@ -6,13 +6,13 @@
       "_id": "page.your-name--text.auto_name__9",
       "_type": "text",
       "label": "First name",
-      "name": "auto_name__9"
+      "name": "your_name_first"
     },
     {
       "_id": "page.your-name--text.auto_name__11",
       "_type": "text",
       "label": "Last name",
-      "name": "auto_name__11"
+      "name": "your_name_last"
     }
   ],
   "heading": "Your name",
