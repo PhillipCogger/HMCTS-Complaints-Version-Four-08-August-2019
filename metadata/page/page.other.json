@@ -95,7 +95,7 @@
   "show": {
     "identifier": "complaint_type",
     "operator": "is",
-    "value": "complainant_appellant_applicant_claimant"
+    "value": "complainant_other"
   },
   "url": "person-making-complaint"
 }
