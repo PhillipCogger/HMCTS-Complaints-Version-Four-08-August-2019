@@ -22,7 +22,6 @@
             "label": "What's the best time to call?",
             "name": "auto_name__13"
           },
-          "hint": "For example, call or text message",
           "label": "Phone",
           "value": "auto_value__8"
         },
