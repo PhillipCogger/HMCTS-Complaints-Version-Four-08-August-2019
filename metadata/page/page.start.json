@@ -23,6 +23,7 @@
     "page.witness-charter",
     "page.complaint-details",
     "page.supporting-documents",
+    "page.upload-documents",
     "page.your-name",
     "page.contact-preferences",
     "page.alternative-contact-method",
@@ -30,8 +31,7 @@
     "page.phone-number",
     "page.address",
     "page.check-your-answers",
-    "page.complaint-sent",
-    "page.upload-documents"
+    "page.complaint-sent"
   ],
   "url": "/"
 }
