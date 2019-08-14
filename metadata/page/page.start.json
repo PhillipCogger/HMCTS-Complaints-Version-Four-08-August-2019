@@ -22,6 +22,7 @@
     "page.victim-code",
     "page.witness-charter",
     "page.complaint-details",
+    "page.supporting-documents",
     "page.your-name",
     "page.contact-preferences",
     "page.alternative-contact-method",
@@ -29,7 +30,8 @@
     "page.phone-number",
     "page.address",
     "page.check-your-answers",
-    "page.complaint-sent"
+    "page.complaint-sent",
+    "page.upload-documents"
   ],
   "url": "/"
 }
