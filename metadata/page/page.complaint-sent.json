@@ -1,6 +1,8 @@
 {
   "_id": "page.complaint-sent",
   "_type": "page.confirmation",
-  "heading": "Your complaint has been sent successfully",
+  "body": "We have sent you a confirmation email.\r\n\r\n## What happens next",
+  "heading": "Complaint sent",
+  "lede": "Your reference number is\r\n**HDJ2123F**",
   "url": "complaint-sent"
 }
