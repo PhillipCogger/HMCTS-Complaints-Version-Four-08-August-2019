@@ -23,5 +23,10 @@
       "name": "complaint_judge"
     }
   ],
+  "show": {
+    "identifier": "complaint_outcome_of_case",
+    "operator": "is",
+    "value": "complaint_outcome_of_case_no"
+  },
   "url": "judge-complaint"
 }
