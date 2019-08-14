@@ -29,6 +29,7 @@
     "page.customer-name",
     "page.contact-preferences",
     "page.email",
+    "page.customer-email",
     "page.alternative-contact-method",
     "page.phone-number",
     "page.address",
