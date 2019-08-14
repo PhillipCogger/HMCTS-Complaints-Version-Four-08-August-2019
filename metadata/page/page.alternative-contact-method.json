@@ -19,7 +19,7 @@
           "value": "alternative_contact_post"
         }
       ],
-      "legend": "Another way to contact you",
+      "legend": "Is there another way to contact you about your complaint?",
       "name": "alternative_contact"
     }
   ],
