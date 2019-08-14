@@ -1,7 +1,7 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "## Important information\r\n\r\nYou can't use this form to complain about:\r\n\r\n* the outcome of a case\r\n* a judge, tribunal member or magistrate",
+  "body": "## Important information\r\n\r\nYou can't use this form to complain about:\r\n\r\n* the outcome of a case\r\n* a judge, tribunal member, magistrate or coroner",
   "extraComponents": [
     {
       "_id": "page.start--content",
