@@ -24,9 +24,18 @@
     }
   ],
   "show": {
-    "identifier": "contact_preference",
-    "operator": "is",
-    "value": "contact_preference_email"
+    "all": [
+      {
+        "identifier": "contact_preference",
+        "operator": "is",
+        "value": "contact_preference_email"
+      },
+      {
+        "identifier": "customer_making_complaint",
+        "operator": "is",
+        "value": "customer_making_complaint_yes"
+      }
+    ]
   },
   "url": "alternative-contact-method"
 }

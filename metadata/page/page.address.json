@@ -56,6 +56,11 @@
         "identifier": "alternative_contact",
         "operator": "is",
         "value": "alternative_contact_post"
+      },
+      {
+        "identifier": "customer_making_complaint",
+        "operator": "is",
+        "value": "customer_making_complaint_yes"
       }
     ]
   },
