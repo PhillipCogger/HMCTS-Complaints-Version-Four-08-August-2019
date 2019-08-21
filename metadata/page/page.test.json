@@ -24,5 +24,8 @@
     }
   ],
   "enableSteps": true,
+  "steps": [
+    "page._appeal-against-a-decision"
+  ],
   "url": "case-outcome-complaint"
 }
