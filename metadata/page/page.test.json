@@ -23,5 +23,6 @@
       "name": "complaint_outcome_of_case"
     }
   ],
+  "enableSteps": true,
   "url": "case-outcome-complaint"
 }

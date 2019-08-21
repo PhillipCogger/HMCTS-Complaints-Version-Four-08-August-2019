@@ -19,7 +19,6 @@
   "lede": "Use this form to complain if you're unhappy with your experience at a court or tribunal.",
   "steps": [
     "page.test",
-    "page.appeal-against-a-decision",
     "page.judge-complaint",
     "page.complain-about-a-judge",
     "page.person-making-complaint",
