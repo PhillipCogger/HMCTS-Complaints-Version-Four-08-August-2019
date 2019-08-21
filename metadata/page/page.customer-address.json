@@ -43,8 +43,7 @@
       "widthClassInput": "10"
     }
   ],
-  "heading": "What is the customer's address?",
-  "lede": "We'll only contact the customer representative about this complaint.",
+  "heading": "What's the customer's address?",
   "show": {
     "identifier": "customer_making_complaint",
     "operator": "is",
