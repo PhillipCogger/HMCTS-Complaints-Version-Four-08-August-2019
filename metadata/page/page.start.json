@@ -25,6 +25,8 @@
     "page.representative-full-name",
     "page.representative-email",
     "page.representative-address",
+    "page.customer-name",
+    "page.customer-address",
     "page.role",
     "page.other",
     "page.victim-code",
@@ -35,10 +37,8 @@
     "page.upload-documents",
     "page.email",
     "page.address",
-    "page.customer-address",
     "page.check-your-answers",
-    "page.complaint-sent",
-    "page.customer-name"
+    "page.complaint-sent"
   ],
   "url": "/"
 }

@@ -5,7 +5,8 @@
     {
       "_id": "page.customer-name--text.auto_name__1",
       "_type": "text",
-      "name": "auto_name__1"
+      "label": "What's the customer's full name?",
+      "name": "customer-full-name"
     }
   ],
   "url": "customer-name"
