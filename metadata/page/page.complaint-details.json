@@ -9,7 +9,7 @@
       "$field": true,
       "_id": "page.complaint-details--textarea.auto_name__7",
       "_type": "textarea",
-      "label": "What happened",
+      "label": "What happened?",
       "name": "complaint_reason"
     },
     {
@@ -18,7 +18,7 @@
       "label": "How can we resolve your issue?",
       "name": "complaint_resolution",
       "validation": {
-        "required": false
+        "required": true
       }
     },
     {
@@ -29,7 +29,7 @@
       "_id": "page.complaint-details--text.auto_name__9",
       "_type": "text",
       "hint": "Start by typing a location, for example, Aberystwyth, or the court or tribunal  name if you know it",
-      "label": "Where the issue happened",
+      "label": "Where did the issue happen?",
       "name": "complaint_location"
     },
     {
