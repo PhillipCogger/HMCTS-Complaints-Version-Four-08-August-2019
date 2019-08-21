@@ -19,7 +19,7 @@
           "value": "complaint_victim_code_no"
         }
       ],
-      "legend": "Is this complaint about the Victims' Code?",
+      "legend": "Do you want to complain about the Victims' Code?",
       "name": "complaint_victim_code"
     }
   ],

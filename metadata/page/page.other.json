@@ -89,7 +89,7 @@
           "value": "person_making_complaint_professional_user"
         }
       ],
-      "legend": "Give more details",
+      "legend": "Which of these best describes you?",
       "name": "person_making_complaint"
     }
   ],

@@ -19,7 +19,7 @@
           "value": "complaint_witness_charter_no"
         }
       ],
-      "legend": "Is this complaint about the Witness Charter?",
+      "legend": "Do you want to complain about the Witness Charter?",
       "name": "complaint_witness_charter"
     }
   ],
