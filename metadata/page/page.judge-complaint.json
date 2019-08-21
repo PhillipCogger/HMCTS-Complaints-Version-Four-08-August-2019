@@ -23,6 +23,10 @@
       "name": "complaint_judge"
     }
   ],
+  "enableSteps": true,
   "show": true,
+  "steps": [
+    "page.complain-about-a-judge"
+  ],
   "url": "judge-complaint"
 }

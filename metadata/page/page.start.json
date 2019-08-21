@@ -20,7 +20,6 @@
   "steps": [
     "page.test",
     "page.judge-complaint",
-    "page.complain-about-a-judge",
     "page.person-making-complaint",
     "page.relationship-to-customer",
     "page.role",
