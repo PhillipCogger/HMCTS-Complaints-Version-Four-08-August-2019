@@ -8,43 +8,43 @@
       "hint": "Select one option.",
       "items": [
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.role--radios.auto_name__4--radio.auto_value__1",
           "_type": "radio",
           "label": "Appellant, applicant or claimant",
           "value": "complainant_appellant_applicant_claimant"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.role--radios.auto_name__4--radio.auto_value__1--2",
           "_type": "radio",
           "label": "Defendant or respondent",
           "value": "complainant_defendant_respondent"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.role--radios.auto_name__4--radio.auto_value__1--3",
           "_type": "radio",
           "label": "Juror",
           "value": "complainant_juror"
         },
         {
-          "_id": "page.role--radios.auto_name__4--radio.auto_value__8",
-          "_type": "radio",
-          "label": "Victim",
-          "value": "complainant_victim"
-        },
-        {
-          "_id": "page.role--radios.auto_name__4--radio.auto_value__8--2",
-          "_type": "radio",
-          "label": "Professional user",
-          "value": "complainant_professional_user"
-        },
-        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.role--radios.auto_name__4--radio.auto_value__1--4",
           "_type": "radio",
           "label": "Other",
           "value": "complainant_other"
         }
       ],
-      "legend": "What role are you?",
+      "legend": "How would you describe yourself?",
       "name": "complaint_type"
     }
   ],
