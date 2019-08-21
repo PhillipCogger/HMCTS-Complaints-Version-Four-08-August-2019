@@ -9,6 +9,10 @@
     }
   ],
   "heading": "You can't use this form to complain about a judge",
-  "show": true,
+  "show": {
+    "identifier": "complaint_judge",
+    "operator": "is",
+    "value": "complaint_judge_yes"
+  },
   "url": "complain-about-a-judge"
 }

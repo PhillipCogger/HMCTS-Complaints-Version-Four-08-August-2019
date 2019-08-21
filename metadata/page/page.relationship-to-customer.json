@@ -44,7 +44,7 @@
           "value": "representative_relationship_to_customer_lawyer_solicitor"
         }
       ],
-      "legend": "What's your relationship to the customer?",
+      "legend": "What's your relationship to the person complaining?",
       "name": "representative_relationship_to_customer"
     }
   ],

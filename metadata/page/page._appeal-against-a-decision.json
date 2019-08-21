@@ -9,6 +9,10 @@
     }
   ],
   "heading": "You can't use this form to complain about the outcome of a case",
-  "show": true,
+  "show": {
+    "identifier": "complaint_outcome_of_case",
+    "operator": "is",
+    "value": "complaint_outcome_of_case_yes"
+  },
   "url": "/appeal-against-a-decision"
 }
