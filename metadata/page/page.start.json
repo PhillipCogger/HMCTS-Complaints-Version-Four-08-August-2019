@@ -37,7 +37,8 @@
     "page.address",
     "page.customer-address",
     "page.check-your-answers",
-    "page.complaint-sent"
+    "page.complaint-sent",
+    "page.customer-name"
   ],
   "url": "/"
 }
