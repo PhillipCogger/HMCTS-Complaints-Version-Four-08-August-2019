@@ -9,5 +9,10 @@
       "name": "representative_full_name"
     }
   ],
+  "show": {
+    "identifier": "customer_making_complaint",
+    "operator": "is",
+    "value": "representative_making_complaint"
+  },
   "url": "representative-full-name"
 }
