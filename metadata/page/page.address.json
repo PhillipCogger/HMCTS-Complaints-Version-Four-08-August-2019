@@ -43,26 +43,7 @@
       "widthClassInput": "10"
     }
   ],
-  "heading": "Your address",
-  "show": {
-    "conditionsType": "exactly",
-    "exactly": [
-      {
-        "identifier": "contact_preference",
-        "operator": "is",
-        "value": "contact_preferences_post"
-      },
-      {
-        "identifier": "alternative_contact",
-        "operator": "is",
-        "value": "alternative_contact_post"
-      },
-      {
-        "identifier": "customer_making_complaint",
-        "operator": "is",
-        "value": "customer_making_complaint_yes"
-      }
-    ]
-  },
+  "heading": "What's your home address?",
+  "show": true,
   "url": "address"
 }

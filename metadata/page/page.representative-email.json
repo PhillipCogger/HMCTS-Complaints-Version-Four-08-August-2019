@@ -1,0 +1,14 @@
+{
+  "_id": "page.representative-email",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.representative-email--email.auto_name__1",
+      "_type": "email",
+      "hint": "We'll only use this to contact you about the person's complaint",
+      "label": "Your email address",
+      "name": "representative_email_address"
+    }
+  ],
+  "url": "representative-email"
+}

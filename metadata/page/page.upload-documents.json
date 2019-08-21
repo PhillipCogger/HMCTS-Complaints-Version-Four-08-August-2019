@@ -12,10 +12,6 @@
       "name": "document_upload"
     }
   ],
-  "show": {
-    "identifier": "documents_to_support_complaint",
-    "operator": "is",
-    "value": "documents_to_support_complaint_yes"
-  },
+  "show": true,
   "url": "upload-documents"
 }

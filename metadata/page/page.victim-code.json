@@ -23,10 +23,6 @@
       "name": "complaint_victim_code"
     }
   ],
-  "show": {
-    "identifier": "person_making_complaint",
-    "operator": "is",
-    "value": "person_making_complaint_victim"
-  },
+  "show": true,
   "url": "victim-code"
 }

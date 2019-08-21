@@ -10,19 +10,6 @@
       "name": "your_email_address"
     }
   ],
-  "show": {
-    "all": [
-      {
-        "identifier": "contact_preference",
-        "operator": "is",
-        "value": "contact_preference_email"
-      },
-      {
-        "identifier": "customer_making_complaint",
-        "operator": "is",
-        "value": "customer_making_complaint_yes"
-      }
-    ]
-  },
+  "show": true,
   "url": "email"
 }

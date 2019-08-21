@@ -93,10 +93,6 @@
       "name": "person_making_complaint"
     }
   ],
-  "show": {
-    "identifier": "complaint_type",
-    "operator": "is",
-    "value": "complainant_other"
-  },
+  "show": true,
   "url": "person-making-complaint"
 }

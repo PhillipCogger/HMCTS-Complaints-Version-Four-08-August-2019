@@ -1,0 +1,38 @@
+{
+  "_id": "page.representative-address",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.representative-address--text.auto_name__1",
+      "_type": "text",
+      "name": "auto_name__1",
+      "widthClassInput": "30"
+    },
+    {
+      "_id": "page.representative-address--text.auto_name__2",
+      "_type": "text",
+      "name": "auto_name__2",
+      "widthClassInput": "30"
+    },
+    {
+      "_id": "page.representative-address--text.auto_name__8",
+      "_type": "text",
+      "name": "auto_name__8",
+      "widthClassInput": "two-thirds"
+    },
+    {
+      "_id": "page.representative-address--text.auto_name__9",
+      "_type": "text",
+      "name": "auto_name__9",
+      "widthClassInput": "two-thirds"
+    },
+    {
+      "_id": "page.representative-address--text.auto_name__10",
+      "_type": "text",
+      "name": "auto_name__10",
+      "widthClassInput": "10"
+    }
+  ],
+  "heading": "What's your address?",
+  "url": "representative-address"
+}

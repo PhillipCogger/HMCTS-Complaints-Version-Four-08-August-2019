@@ -48,10 +48,6 @@
       "name": "representative_relationship_to_customer"
     }
   ],
-  "show": {
-    "identifier": "customer_making_complaint",
-    "operator": "is",
-    "value": "representative_making_complaint"
-  },
+  "show": true,
   "url": "relationship-to-customer"
 }

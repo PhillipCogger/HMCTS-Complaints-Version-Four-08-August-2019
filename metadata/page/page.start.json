@@ -22,6 +22,8 @@
     "page.judge-complaint",
     "page.person-making-complaint",
     "page.relationship-to-customer",
+    "page.representative-full-name",
+    "page.representative-email",
     "page.role",
     "page.other",
     "page.victim-code",
@@ -31,11 +33,11 @@
     "page.supporting-documents",
     "page.upload-documents",
     "page.email",
-    "page.phone-number",
     "page.address",
     "page.customer-address",
     "page.check-your-answers",
-    "page.complaint-sent"
+    "page.complaint-sent",
+    "page.representative-address"
   ],
   "url": "/"
 }
